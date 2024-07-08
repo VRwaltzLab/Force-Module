@@ -1,3 +1,4 @@
+# Bug Report
 So when I went to go program the Turnigy plush 32 Motor Controllers.
 I found out from their manual that they have "8-24 KHz PWM signal output"
 This doesn't make sense as written. I suspect they meant input.
