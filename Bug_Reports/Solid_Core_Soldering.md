@@ -1,3 +1,4 @@
+# Bug Report
 Report made June 24 2024.
 So at the beginning of this month, I was trying to assemble a basic testing rig.
 During the assembly I soldered some xt-60 connectors to the solid core awg 14 wire.
